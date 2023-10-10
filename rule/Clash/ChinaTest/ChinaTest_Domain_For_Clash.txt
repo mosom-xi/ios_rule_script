@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-10 02:11:46
+# UPDATED: 2023-10-11 02:13:58
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64936
+# DOMAIN-SUFFIX: 64945
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 65126
+# TOTAL: 65135
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -9722,6 +9722,7 @@ xn--flw351e.com
 +.91ceshi.com
 +.91cha.com
 +.91chang.com
++.91changxie.com
 +.91chuxue.com
 +.91cpm.com
 +.91cps.com
@@ -10509,6 +10510,7 @@ xn--flw351e.com
 +.abdstem.com
 +.abe-tech.com
 +.abeacon.com
++.abesmoke.com
 +.abiechina.com
 +.abiestem.com
 +.abifsey.com
@@ -12361,6 +12363,7 @@ xn--flw351e.com
 +.atmlimited.com
 +.atmob.com
 +.atobo.com
++.atomgit.com
 +.atomhike-en.com
 +.atomhike.com
 +.atomic-art.com
@@ -17051,6 +17054,7 @@ xn--flw351e.com
 +.chinameyer.com
 +.chinamfi.net
 +.chinamining.com
++.chinamishu.net
 +.chinamission.be
 +.chinamlmcc.com
 +.chinamobilesz.com
@@ -17290,6 +17294,7 @@ xn--flw351e.com
 +.chipcoo.com
 +.chipcreation.com
 +.chipdance.com
++.chiphometek.com
 +.chiplayout.net
 +.chipmanufacturing.org
 +.chiponeic.com
@@ -19385,8 +19390,10 @@ xn--flw351e.com
 +.ctfmall.com
 +.ctfo.com
 +.ctg75.com
++.ctgapp.com
 +.ctghealthy.com
 +.ctghr.com
++.ctghro.com
 +.cthhmu.com
 +.cthuwork.com
 +.cthuwork.net
@@ -35552,7 +35559,6 @@ xn--flw351e.com
 +.kkkwww.com
 +.kklishi.com
 +.kklxj.com
-+.kkmaoyi.com
 +.kkminer.com
 +.kkmop.com
 +.kknn.com
@@ -42045,6 +42051,7 @@ xn--flw351e.com
 +.noveless.com
 +.novelfm.com
 +.novelfmpic.com
++.novelfmstatic.com
 +.novelfmvod.com
 +.novell.me
 +.novemideas.com
@@ -43811,7 +43818,6 @@ xn--flw351e.com
 +.plalzhang.com
 +.planckled.com
 +.planetmeican.com
-+.plantextra.com
 +.plantname.xyz
 +.plantower.com
 +.plateno.cc
@@ -48463,6 +48469,7 @@ xn--flw351e.com
 +.shouxintec.com
 +.shouyao.com
 +.shouye-wang.com
++.shouyihuo.com
 +.shouyou.com
 +.shouyoucdn.com
 +.shouyoujz.com
@@ -49775,7 +49782,6 @@ xn--flw351e.com
 +.soxsok.com
 +.soyim.com
 +.soyiyuan.com
-+.soyobo.com
 +.soyohui.com
 +.soyoung.com
 +.soyouso.com
@@ -51102,6 +51108,7 @@ xn--flw351e.com
 +.taianmedia.com
 +.taiantang.net
 +.taibumall.com
++.taichi-maker.com
 +.taichyfood.com
 +.taicihome.com
 +.taidao.net
@@ -55481,6 +55488,7 @@ xn--flw351e.com
 +.weiqingbao.cc
 +.weiqitv.com
 +.weiqudao.net
++.weiqundaquan.com
 +.weiquyx.com
 +.weiren.com
 +.weisanyun.com
@@ -57251,7 +57259,6 @@ xn--flw351e.com
 +.wypxj.com
 +.wyq9.com
 +.wyr.me
-+.wys.net
 +.wysaid.org
 +.wysap.com
 +.wysfgc.com
@@ -58504,6 +58511,7 @@ xn--flw351e.com
 +.xinjiadiy.com
 +.xinjiance.com
 +.xinjianggou.com
++.xinjidian.com
 +.xinjimo.com
 +.xinjingks.com
 +.xinjisuan.net
@@ -60003,6 +60011,7 @@ xn--flw351e.com
 +.ybaby.com
 +.ybao.org
 +.ybaobx.com
++.ybask.com
 +.ybbdzp.com
 +.ybbgd.com
 +.ybbxkj.com
