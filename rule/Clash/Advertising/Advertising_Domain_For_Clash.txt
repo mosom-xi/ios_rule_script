@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-11 02:08:22
+# UPDATED: 2023-10-12 02:07:50
 # DOMAIN: 16179
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 96756
+# DOMAIN-SUFFIX: 96777
 # IP-CIDR: 330
-# TOTAL: 113341
+# TOTAL: 113362
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -19141,6 +19141,7 @@ play.kakao.com
 +.actpx.com
 +.actressact.com
 +.actrkn.com
++.actrqdr.cn
 +.actu24.online
 +.actualdeals.com
 +.actuallyfrustration.com
@@ -21697,6 +21698,7 @@ play.kakao.com
 +.adt328.com
 +.adt545.net
 +.adt567.net
++.adt574.com
 +.adt598.com
 +.adtag.cc
 +.adtag.msn.ca
@@ -27651,6 +27653,7 @@ play.kakao.com
 +.bnds8.site
 +.bnet.com
 +.bnets1.icu
++.bnets9.icu
 +.bnfoeabisp.com
 +.bnfyzszm.icu
 +.bngdyn.com
@@ -29793,6 +29796,7 @@ play.kakao.com
 +.cehuiy.com
 +.ceilingbruiseslegend.com
 +.ceillons.site
++.ceiuip.icu
 +.cekladod.com
 +.cekornapred.org
 +.celaenomash.com
@@ -35440,6 +35444,7 @@ play.kakao.com
 +.dktr03lf4tq7h.cloudfront.net
 +.dkupaw9ae63a8.cloudfront.net
 +.dkus30wj6f84p.cloudfront.net
++.dkvakldvnsv.com
 +.dkvtbjavjme96.cloudfront.net
 +.dkyp75kj7ldlr.cloudfront.net
 +.dl-protect.net
@@ -41789,6 +41794,8 @@ play.kakao.com
 +.gmogccmnp.com
 +.gmossp-sp.jp
 +.gmpfruktfatpi.com
++.gmx23.top
++.gmx24.top
 +.gmx27.top
 +.gmx28.top
 +.gmx29.top
@@ -46941,6 +46948,7 @@ play.kakao.com
 +.jl368.cn
 +.jlcarral.com
 +.jldbnjghezv.com
++.jlhlnd.xyz
 +.jlijten.nl
 +.jljftl.xyz
 +.jlkhaohgew.xyz
@@ -48634,6 +48642,7 @@ play.kakao.com
 +.kzjqraj.cn
 +.kzkmmbrrzn.com
 +.kzngisyd.xyz
++.kzprugp.xyz
 +.kzsfip3v.cfd
 +.kzsha.com
 +.kzuxlydg.icu
@@ -49970,6 +49979,7 @@ play.kakao.com
 +.lknhrnd.com
 +.lknnbd.xyz
 +.lkoobbpti.com
++.lkoqtvvajktpjsk.xyz
 +.lkpmprksau.com
 +.lkqd.com
 +.lkqd.net
@@ -50387,6 +50397,7 @@ play.kakao.com
 +.lojapremio.com.br
 +.lokalleads-cci.com
 +.lokeriklan.com
++.loketsaucy.com
 +.loki.maximonline.ru
 +.loki8lave.com
 +.lokinatoer5.com
@@ -55700,6 +55711,7 @@ play.kakao.com
 +.oaphooftaus.com
 +.oaprodlogging.yo-digital.com
 +.oapsmnk.cyou
++.oapyrzde.xyz
 +.oarcompartmentexaggerate.com
 +.oardilin.com
 +.oardjnay.com
@@ -60639,6 +60651,7 @@ play.kakao.com
 +.psoageph.com
 +.psoalreh.com
 +.psognaih.xyz
++.psojeeng.com
 +.psonstrentie.info
 +.psoogaix.net
 +.psoolikoagy.com
@@ -64306,6 +64319,7 @@ play.kakao.com
 +.s.csyfe.com
 +.s.deepl.com
 +.s.di.com.pl
++.s.dmmew.com
 +.s.flite.com
 +.s.frida.vse42.ru
 +.s.giaoducthoidai.vn
@@ -65274,6 +65288,7 @@ play.kakao.com
 +.selfpuc.com
 +.selfpwn.org
 +.selfreliantboot.pro
++.selfswayjay.com
 +.sellaction.net
 +.sellbleatregistry.com
 +.sellbuyads.cn
@@ -69199,6 +69214,7 @@ play.kakao.com
 +.t58genestuff.com
 +.t5lxz7dtq4iz.com
 +.t5wm.cc
++.t6.china-xian.com
 +.t810.ctpost.com
 +.ta.toprework.vn
 +.ta.trs.cn
@@ -73724,6 +73740,7 @@ play.kakao.com
 +.uq7c.top
 +.uqdoeag.com
 +.uqelxct.cn
++.uqeuxpl.cn
 +.uqfot.com
 +.uqidian.com
 +.uqie4nzy.com
@@ -74364,6 +74381,7 @@ play.kakao.com
 +.vdggsd007.com
 +.vdggsd008.com
 +.vdggsd009.com
++.vdggsd010.com
 +.vdhufs.com
 +.vdlvry.com
 +.vdmiruryll.xyz
@@ -78040,6 +78058,7 @@ play.kakao.com
 +.xcnn.com
 +.xcounter.ch
 +.xcowuheclvwryh.com
++.xcqbbcqpl.xyz
 +.xcqyvahohs.com
 +.xctignum.uno
 +.xcvdd.xyz
@@ -78554,6 +78573,7 @@ play.kakao.com
 +.xxdlg.cn
 +.xxdongfa.com
 +.xxe2.com
++.xxfphsg.cn
 +.xxgqsbfwbmtqa.com
 +.xxhp2iz.icu
 +.xxjcedclosxcaox.com
@@ -79638,6 +79658,7 @@ play.kakao.com
 +.zedswrathed.website
 +.zedwhyex.com
 +.zedxknzlwyofh.com
++.zeebaith.xyz
 +.zeeca4u.com
 +.zeechumy.com
 +.zeecoomi.net

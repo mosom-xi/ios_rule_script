@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-11 02:09:40
+# UPDATED: 2023-10-12 02:08:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 125344
+# DOMAIN-SUFFIX: 125378
 # IP-CIDR: 354
 # URL-REGEX: 285
-# TOTAL: 138679
+# TOTAL: 138713
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -862,6 +862,7 @@
 .1b969cef84d93b43.com
 .1b9cvfi0nwxqelxu.pro
 .1baq2nvd6n7.www.keevowallet.com
+.1bctkn.xyz
 .1beb2a44.space
 .1bestgoods.com
 .1betandgonow.com
@@ -10413,6 +10414,7 @@
 .adt328.com
 .adt545.net
 .adt567.net
+.adt574.com
 .adt598.com
 .adtag-or2-697022674.us-west-2.elb.amazonaws.com
 .adtag.cc
@@ -15345,6 +15347,7 @@
 .asandcomemu.info
 .asarma.xyz
 .asbinacler.com
+.asbutiseemedli.com
 .asc.asc-net.com
 .asc.e-conolight.com
 .asc.solidworks.com
@@ -21488,6 +21491,7 @@
 .bundasnovinhas.com
 .bundesanzeiger.fr
 .bundleddayal.com
+.bundles.efilli.com
 .bungalowdispleasedwheeled.com
 .bungalowlame.com
 .bungalowsimply.com
@@ -22349,6 +22353,7 @@
 .cadetrigourlegitimate.com
 .cadfixbig.site
 .cadimavume.com
+.cadizer.com
 .cadke.xyz
 .cadlsyndicate.com
 .cadrctlnk.com
@@ -24168,6 +24173,7 @@
 .chauksoa.net
 .chaulsan.com
 .chaumsee.net
+.chaursug.xyz
 .chaussew.net
 .chautcho.com
 .chautchy.net
@@ -24234,6 +24240,7 @@
 .cheda1.icu
 .cheda10.icu
 .cheda2.icu
+.cheda6.icu
 .cheda7.icu
 .cheda8.icu
 .cheda9.icu
@@ -28685,6 +28692,7 @@
 .crew.zubie.com
 .crf999.cn
 .crfrf.com
+.crhabkd.cn
 .crhneation.xyz
 .crhyqq.com
 .criantsleck.com
@@ -28702,6 +28710,7 @@
 .crimitating.com
 .crimpedmelanic.com
 .crimsondozeprofessional.com
+.crimsonmeadow.com
 .crisdomson.com
 .crisistuesdayartillery.com
 .crispads.com
@@ -34403,6 +34412,7 @@
 .deletemer.online
 .deleterasks.digital
 .delevar.trekkww.fun
+.delicatecascade.com
 .delicateducks.com
 .delidatax.net
 .delightcash.com
@@ -38500,6 +38510,7 @@
 .ebl-hot.com
 .eblastengine.com
 .eblastengine.upickem.net
+.ebmlsvw.cn
 .ebmzp.top
 .ebnpqi.carrefourlocation.fr
 .ebocornac.com
@@ -46865,6 +46876,7 @@
 .givill.com
 .givingboyfriend.pro
 .givingsol.com
+.gixgav.icu
 .gixhlii.xyz
 .gixiluros.com
 .gixmo.dk
@@ -47227,6 +47239,7 @@
 .gmufag.fontanka.ru
 .gmufag.starhit.ru
 .gmufag.woman.ru
+.gmx22.top
 .gmx23.top
 .gmx24.top
 .gmx27.top
@@ -49857,6 +49870,7 @@
 .hazelhannahfruit.com
 .hazelmutenessorchard.com
 .hazelnutshighs.com
+.hazoopso.net
 .hazydespise.com
 .hazymarvellous.com
 .hb-247.com
@@ -52099,6 +52113,7 @@
 .hwaovdomltib.com
 .hwchvgpc.xyz
 .hwertd.xyz
+.hwfmynim.com
 .hwfoct.icu
 .hwhefj.xyz
 .hwhiffonprotect.info
@@ -58472,6 +58487,7 @@
 .jvbzzmnjezeba.top
 .jvgjrb.com
 .jvjlkih.com
+.jvjmjt.xyz
 .jvkckeg.cn
 .jvljnb.xyz
 .jvljpv.com
@@ -63028,6 +63044,7 @@
 .lkidke.com
 .lkj23jlkajsa.realestate.help
 .lkjbrd.signals.com
+.lkjjhrwrcmvtl.com
 .lkjrx.xyz
 .lkkmnudvvx.com
 .lkkrmarvynlqz.top
@@ -63661,6 +63678,7 @@
 .logger.uol.com.br
 .logger.viki.io
 .logger.yp.ca
+.logger007.cam4.com
 .logging.api.intuit.com
 .logging.e-himart.co.kr
 .logging.fishsticksgames.com
@@ -63812,6 +63830,7 @@
 .lokalleads-cci.com
 .lokalwerben.t-online.de
 .lokeriklan.com
+.loketsaucy.com
 .loki.maximonline.ru
 .loki8lave.com
 .lokinatoer5.com
@@ -72360,6 +72379,7 @@
 .mrpdata.net
 .mrpiracy.xyz
 .mrporngeek.com
+.mrpztdpe.com
 .mrqbuf.xyz
 .mrqpcy.biggreensmile.nl
 .mrruuov.cn
@@ -73536,6 +73556,7 @@
 .nanesbewail.com
 .nangkasec.com
 .nangong2.com
+.nangongmall.com
 .nanigans.com
 .nankuan.xin
 .nanlisgc.fun
@@ -74081,6 +74102,7 @@
 .netflopin.com
 .netgraviton.net
 .nethatriheg.ru
+.nethebravero.com
 .netherinertia.life
 .nethit-free.nl
 .netincap.com
@@ -77251,6 +77273,7 @@
 .onclklnd.com
 .oncomeannuals.com
 .oncustomer.asia
+.ondajqfaqolmq.xyz
 .ondbarrowat.xyz
 .ondeerlingan.com
 .ondemand.tf-cdn.net
@@ -84216,6 +84239,7 @@
 .psoalreh.com
 .psoanouy.net
 .psognaih.xyz
+.psojeeng.com
 .psonstrentie.info
 .psoogaix.net
 .psoolikoagy.com
@@ -90222,6 +90246,7 @@
 .s.de123.net
 .s.deepl.com
 .s.di.com.pl
+.s.dmmew.com
 .s.doyo.cn
 .s.dpcq1.net
 .s.drawingthemin.com
@@ -92692,6 +92717,7 @@
 .selfpuc.com
 .selfpwn.org
 .selfreliantboot.pro
+.selfswayjay.com
 .selftour.walk.in
 .sell1.etlong.com
 .sellaction.net
@@ -104853,6 +104879,7 @@
 .t5lxz7dtq4iz.com
 .t5wm.cc
 .t6.baidu.com
+.t6.china-xian.com
 .t7.baidu.com
 .t70123.com
 .t7baxp1xmw00.boxoffice.adventuretix.com
@@ -112940,6 +112967,7 @@
 .uadx.com
 .uaemarketing.sedgwick.com
 .uagesspecifica.info
+.uahozcfq.xyz
 .uahpycewbx.com
 .ual.ocmcbyxm.xyz
 .ualkzq.moobel1.ee
@@ -115174,6 +115202,7 @@
 .vdggsd008.com
 .vdggsd009.com
 .vdggsd010.com
+.vdggsd011.com
 .vdhufs.com
 .vdkjfd.hottopic.com
 .vdlha.cn
@@ -115542,6 +115571,7 @@
 .vibmhetkcedookx.com
 .viboom.com
 .viboom.ru
+.vibranthaven.com
 .vibrantmedia.com
 .vibrateapologiesshout.com
 .vic-m.co
@@ -118483,6 +118513,7 @@
 .whisperingbadge.com
 .whisperingcrib.com
 .whisperingflesh.com
+.whisperingsummit.com
 .whispermeeting.com
 .whisperofisaak.com
 .whisperpostage.com
@@ -119654,6 +119685,7 @@
 .wrotus.com
 .wrpsouf.cn
 .wrrzje.com
+.wrtjojn.xyz
 .wrufer.com
 .wruorvhcyqi.com
 .wrvdmh.cn
@@ -122316,6 +122348,7 @@
 .xxdongfa.com
 .xxe2.com
 .xxeden.com
+.xxfphsg.cn
 .xxgqsbfwbmtqa.com
 .xxguan.cn
 .xxgxqscl.com
@@ -124257,6 +124290,7 @@
 .zedswrathed.website
 .zedwhyex.com
 .zedxknzlwyofh.com
+.zeebaith.xyz
 .zeeca4u.com
 .zeechumy.com
 .zeecoomi.net

@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-10-11 02:08:25
-! Total: 112935
+! Updated: 2023-10-12 02:07:53
+! Total: 112956
 
 
 ||0-000.store^
@@ -3315,6 +3315,7 @@
 ||actpx.com^
 ||actressact.com^
 ||actrkn.com^
+||actrqdr.cn^
 ||actu24.online^
 ||actualdeals.com^
 ||actuallyfrustration.com^
@@ -5983,6 +5984,7 @@
 ||adt328.com^
 ||adt545.net^
 ||adt567.net^
+||adt574.com^
 ||adt598.com^
 ||adtag.cc^
 ||adtag.msn.ca^
@@ -12268,6 +12270,7 @@
 ||bnds8.site^
 ||bnet.com^
 ||bnets1.icu^
+||bnets9.icu^
 ||bnfoeabisp.com^
 ||bnfyzszm.icu^
 ||bngdyn.com^
@@ -14626,6 +14629,7 @@
 ||cehuiy.com^
 ||ceilingbruiseslegend.com^
 ||ceillons.site^
+||ceiuip.icu^
 ||cekladod.com^
 ||cekornapred.org^
 ||celaenomash.com^
@@ -20439,6 +20443,7 @@
 ||dktr03lf4tq7h.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dkus30wj6f84p.cloudfront.net^
+||dkvakldvnsv.com^
 ||dkvtbjavjme96.cloudfront.net^
 ||dkyp75kj7ldlr.cloudfront.net^
 ||dl-protect.net^
@@ -26970,6 +26975,8 @@
 ||gmogccmnp.com^
 ||gmossp-sp.jp^
 ||gmpfruktfatpi.com^
+||gmx23.top^
+||gmx24.top^
 ||gmx27.top^
 ||gmx28.top^
 ||gmx29.top^
@@ -32296,6 +32303,7 @@
 ||jl368.cn^
 ||jlcarral.com^
 ||jldbnjghezv.com^
+||jlhlnd.xyz^
 ||jlifm.org.cn^
 ||jlijten.nl^
 ||jljftl.xyz^
@@ -34033,6 +34041,7 @@
 ||kzjqraj.cn^
 ||kzkmmbrrzn.com^
 ||kzngisyd.xyz^
+||kzprugp.xyz^
 ||kzsfip3v.cfd^
 ||kzsha.com^
 ||kzuxlydg.icu^
@@ -35404,6 +35413,7 @@
 ||lknhrnd.com^
 ||lknnbd.xyz^
 ||lkoobbpti.com^
+||lkoqtvvajktpjsk.xyz^
 ||lkpmprksau.com^
 ||lkqd.com^
 ||lkqd.net^
@@ -35844,6 +35854,7 @@
 ||lojapremio.com.br^
 ||lokalleads-cci.com^
 ||lokeriklan.com^
+||loketsaucy.com^
 ||loki.maximonline.ru^
 ||loki8lave.com^
 ||lokinatoer5.com^
@@ -41346,6 +41357,7 @@
 ||oaphooftaus.com^
 ||oaprodlogging.yo-digital.com^
 ||oapsmnk.cyou^
+||oapyrzde.xyz^
 ||oarcompartmentexaggerate.com^
 ||oardilin.com^
 ||oardjnay.com^
@@ -46427,6 +46439,7 @@
 ||psoageph.com^
 ||psoalreh.com^
 ||psognaih.xyz^
+||psojeeng.com^
 ||psonstrentie.info^
 ||psoogaix.net^
 ||psoolikoagy.com^
@@ -50192,6 +50205,7 @@
 ||s.csyfe.com^
 ||s.deepl.com^
 ||s.di.com.pl^
+||s.dmmew.com^
 ||s.flite.com^
 ||s.frida.vse42.ru^
 ||s.giaoducthoidai.vn^
@@ -51243,6 +51257,7 @@
 ||selfpuc.com^
 ||selfpwn.org^
 ||selfreliantboot.pro^
+||selfswayjay.com^
 ||sellaction.net^
 ||sellbleatregistry.com^
 ||sellbuyads.cn^
@@ -55328,6 +55343,7 @@
 ||t58genestuff.com^
 ||t5lxz7dtq4iz.com^
 ||t5wm.cc^
+||t6.china-xian.com^
 ||t810.ctpost.com^
 ||ta-collector.centurygame.com^
 ||ta.toprework.vn^
@@ -59988,6 +60004,7 @@
 ||uq7c.top^
 ||uqdoeag.com^
 ||uqelxct.cn^
+||uqeuxpl.cn^
 ||uqfot.com^
 ||uqidian.com^
 ||uqie4nzy.com^
@@ -60675,6 +60692,7 @@
 ||vdggsd007.com^
 ||vdggsd008.com^
 ||vdggsd009.com^
+||vdggsd010.com^
 ||vdhufs.com^
 ||vdlvry.com^
 ||vdmiruryll.xyz^
@@ -64975,6 +64993,7 @@
 ||xconf.cauly.co.kr^
 ||xcounter.ch^
 ||xcowuheclvwryh.com^
+||xcqbbcqpl.xyz^
 ||xcqyvahohs.com^
 ||xctignum.uno^
 ||xcvdd.xyz^
@@ -65528,6 +65547,7 @@
 ||xxdlg.cn^
 ||xxdongfa.com^
 ||xxe2.com^
+||xxfphsg.cn^
 ||xxgqsbfwbmtqa.com^
 ||xxhp2iz.icu^
 ||xxjcedclosxcaox.com^
@@ -66644,6 +66664,7 @@
 ||zedswrathed.website^
 ||zedwhyex.com^
 ||zedxknzlwyofh.com^
+||zeebaith.xyz^
 ||zeeca4u.com^
 ||zeechumy.com^
 ||zeecoomi.net^
