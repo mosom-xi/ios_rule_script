@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-16 02:12:51
-# DOMAIN: 150
+# UPDATED: 2023-10-17 02:14:20
+# DOMAIN: 151
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 119
 # IP-CIDR: 10
-# TOTAL: 282
+# TOTAL: 283
 DOMAIN,107.182.30.76.16clouds.com
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -20,7 +20,6 @@ DOMAIN,boysbitte.be
 DOMAIN,bt.endpot.com
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
-DOMAIN,bt.xcty.eu.org
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
@@ -53,18 +52,19 @@ DOMAIN,oh.fuuuuuck.com
 DOMAIN,open.acgnxtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
-DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
 DOMAIN,opentor.org
 DOMAIN,opentracker.i2p.rocks
 DOMAIN,opentracker.io
+DOMAIN,p2p.0g.cx
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,private.anonseed.com
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,retracker.211.ru
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -73,7 +73,6 @@ DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,sanincode.com
 DOMAIN,share.camoe.cn
-DOMAIN,smurfsoft.com
 DOMAIN,static.54.161.216.95.clients.your-server.de
 DOMAIN,t.acg.rip
 DOMAIN,t.nyaatracker.com
@@ -90,6 +89,7 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.4.babico.name.tr
 DOMAIN,tracker.artixlinux.org
+DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bt4g.com
@@ -117,12 +117,12 @@ DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.loligirl.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.netmap.top
 DOMAIN,tracker.openbittorrent.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.publictracker.xyz
 DOMAIN,tracker.qu.ax
-DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.swateam.org.uk
@@ -143,6 +143,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,trackers.mlsub.net
+DOMAIN,ts.populargamers.co.za
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist

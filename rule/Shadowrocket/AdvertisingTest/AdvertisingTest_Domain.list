@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-16 02:08:51
+# UPDATED: 2023-10-17 02:09:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 125561
+# DOMAIN-SUFFIX: 125606
 # IP-CIDR: 354
 # URL-REGEX: 285
-# TOTAL: 138895
+# TOTAL: 138940
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -256,6 +256,7 @@
 .0e24f9441d.com
 .0e78376a1b.com
 .0ec9b365fd.com
+.0efghij.com
 .0eijh8996i.com
 .0emm.com
 .0emn.com
@@ -270,6 +271,7 @@
 .0fmm.com
 .0ftyz.top
 .0fwg.cn
+.0ghijkl.com
 .0gw7e6s3wrao9y3q.pro
 .0hlc8.top
 .0i.iqostaiwan.com
@@ -280,6 +282,7 @@
 .0klxjejyxak3.com
 .0krdn3.com
 .0l9x.cn
+.0mnopqr.com
 .0myksyhuuz.cn
 .0n6h.cn
 .0nin.cn
@@ -317,6 +320,7 @@
 .0x1f4b0.com
 .0x5.me
 .0xxd.com
+.0yzabcd.com
 .0z5jn.cn
 .1-1ads.com
 .1-cl0ud.com
@@ -465,6 +469,7 @@
 .106c6423c3.com
 .107788.com
 .107iwh.cn
+.1080749118.rsc.cdn77.org
 .1080872514.rsc.cdn77.org
 .1090pjopm.de
 .109218er.xyz
@@ -616,6 +621,7 @@
 .1254021819.rsc.cdn77.org
 .12573ddd51.com
 .1258999.com
+.1263063334.rsc.cdn77.org
 .1267a.xyz
 .126ccb.xyz
 .1272341218.rsc.cdn77.org
@@ -717,6 +723,7 @@
 .16134024.artcollection.io
 .161779.publy.co
 .1618166201.rsc.cdn77.org
+.1620484860.rsc.cdn77.org
 .1632j6.cn
 .163ren.com
 .1657705582.rsc.cdn77.org
@@ -824,6 +831,7 @@
 .19035955.mktg.tajawal.com
 .1909a8.satofull.jp
 .1917697853.rsc.cdn77.org
+.1922803716.rsc.cdn77.org
 .19273817.com
 .1933000.com
 .1942213827.rsc.cdn77.org
@@ -5771,6 +5779,7 @@
 .aajfoz.halfclub.com
 .aajmmd.aireuropa.com
 .aakashapp.byjus.com
+.aaknmt.icu
 .aaktao.entel.cl
 .aalbbh84.info
 .aalocine.fr
@@ -13425,6 +13434,7 @@
 .aniauu2.cc
 .anicli.click
 .anida.info
+.aniede.xyz
 .aniem44.cc
 .anifefashionism.com
 .anifk71.cc
@@ -15888,6 +15898,7 @@
 .athecsz.cn
 .atheismashamedcomfort.com
 .athena-ads.wikia.com
+.athena-event-provider.n11.com
 .athena.api.kwalee.com
 .athenainstitute.biz
 .athenatmpbeacon.theglobeandmail.ca
@@ -17796,6 +17807,7 @@
 .barscreative1.com
 .bartender.cc
 .bartinkizogrenciyurdu.com
+.bartonpriority.com
 .barut.trekkww.space
 .bas.boshi.tv
 .basaarf.com
@@ -21513,7 +21525,6 @@
 .bundasnovinhas.com
 .bundesanzeiger.fr
 .bundleddayal.com
-.bundles.efilli.com
 .bungalowdispleasedwheeled.com
 .bungalowlame.com
 .bungalowsimply.com
@@ -23267,6 +23278,7 @@
 .ccm.takuma.de
 .ccm1.dlr.de
 .ccm19.de
+.ccm19boros.de
 .ccmd.coveredca.com
 .ccmdcinut.com
 .ccmdgg.com
@@ -23565,7 +23577,6 @@
 .cdn.sports-streams-online.club
 .cdn.sppoints.xyz
 .cdn.sprida.se
-.cdn.sslph.com
 .cdn.steambets.net
 .cdn.surroundtm.com
 .cdn.swellrewards.com
@@ -24136,6 +24147,7 @@
 .chargestimetablechuckled.com
 .charging-technology.com
 .chargingexpressive.com
+.charicymill.com
 .charitablemilletplumber.com
 .charitydestinyscornful.com
 .charkasturnoff.com
@@ -25521,6 +25533,7 @@
 .client-api.ele.me
 .client-event-reporter.twitch.tv
 .client-log.box.com
+.client-logger.beta.salemove.com
 .client-logger.salemove.com
 .client-metrics.chess.com
 .client-telemetry.roblox.com
@@ -28909,6 +28922,7 @@
 .cryptonoter.com
 .cryptopay.org.za
 .cryptosearch.site
+.cryptosplash.care
 .cryptotab.net
 .cryptown.netlify.com
 .crystal-ad.ge
@@ -28939,6 +28953,7 @@
 .cs12d.com
 .cs1863sbeda.glaucoma-arrest.net
 .cs2113sbeda.hokto-onlineshop.jp
+.cs42.pikabu.ru
 .csad.cc
 .csaimall.com
 .csalsylqx.com
@@ -30542,6 +30557,7 @@
 .d3lk5upv0ixky2.cloudfront.net
 .d3lliyjbt3afgo.cloudfront.net
 .d3ln1qrnwms3rd.cloudfront.net
+.d3lqotgbn3npr.cloudfront.net
 .d3lvr7yuk4uaui.cloudfront.net
 .d3lw2k94jnkvbs.cloudfront.net
 .d3m4hp4bp4w996.cloudfront.net
@@ -30645,6 +30661,7 @@
 .d41.co
 .d415l8qlhk6u6.cloudfront.net
 .d4ax0r5detcsu.cloudfront.net
+.d4b138a7aa.com
 .d4bt5tknhzghh.cloudfront.net
 .d4d48974197052ea.com
 .d4eqyxjqusvjj.cloudfront.net
@@ -36851,6 +36868,7 @@
 .dplp1.ibmnorthamerica.adobesandbox.com
 .dpm.bluray-disc.de
 .dpmsrv.com
+.dpns-notifications.com
 .dpqtdkf.cn
 .dprograp.online
 .dprtb.com
@@ -37001,6 +37019,7 @@
 .dreamsoppressive.com
 .dreamteaser.ru
 .dreamvids.pro
+.dreamycanyon.com
 .dreanrh.cn
 .dreary-east.pro
 .drecentreshu.info
@@ -37706,6 +37725,7 @@
 .dzdkw9.cn
 .dzeoiizhixuyvg.com
 .dzgg.com
+.dzgwautxzdtn9.cloudfront.net
 .dzhjmp.com
 .dzhss.cn
 .dzienkudrow.com
@@ -39066,6 +39086,7 @@
 .efglbp.baur.de
 .efhabjaabgfbbegjacj.ru
 .efilgvz.cn
+.efilli.com
 .efinauknceiwou.info
 .efizobj.cn
 .eflbruwqt.ru
@@ -44454,6 +44475,7 @@
 .fqceyqo.com
 .fqcqnb.dwr.com
 .fqdwrgbbkmlbh.com
+.fqeqbpacetlols.com
 .fqkwn.com
 .fqla.top
 .fqmgjad.cn
@@ -44877,6 +44899,7 @@
 .fspjjp.xyz
 .fsqwdj.live-tennis.eu
 .fsr.lenovomm.com
+.fsrtqexvtshh.com
 .fssxfi.gravidicasstore.com.br
 .fssxyiq.cn
 .fst360.com
@@ -47289,7 +47312,10 @@
 .gmufag.fontanka.ru
 .gmufag.starhit.ru
 .gmufag.woman.ru
+.gmx13.top
+.gmx15.top
 .gmx16.top
+.gmx17.top
 .gmx20.top
 .gmx21.top
 .gmx22.top
@@ -49390,6 +49416,7 @@
 .h.imguol.com
 .h.mobcells.com
 .h.msn.com
+.h.n11.com
 .h.ppjol.com
 .h.seznam.cz
 .h.wpjly.cn
@@ -50124,6 +50151,7 @@
 .headlightgranulatedflee.com
 .headquartersexually.com
 .headshot.monster
+.headsroutestocking.com
 .headstonerinse.com
 .headup.com
 .headusuallyopener.com
@@ -59876,6 +59904,7 @@
 .knsnyfpnbyakn.xyz
 .knsyenergyfl.xyz
 .kntswafuos.com
+.knuaxfv.cn
 .knubbyripens.uno
 .knucklecivichereafter.com
 .knurryaikuchi.guru
@@ -60415,6 +60444,7 @@
 .kwqelx.com
 .kwqpix.ravenna.gr
 .kwsjy9.oui.sncf
+.kwtgntyu.xyz
 .kwtnhdrmbx.com
 .kwtrdd.com
 .kwtyuv.com
@@ -61807,6 +61837,7 @@
 .lhiarfocjo.com
 .lhiefl.com
 .lhinsights.com
+.lhioqxkralmy.com
 .lhippac.cn
 .lhmos.com
 .lhot.xyz
@@ -67755,6 +67786,7 @@
 .marketing3.polarispacific.com
 .marketing4.directimpactinc.com
 .marketing6.directimpactinc.com
+.marketingabsentremembered.com
 .marketingassets.staples.com.edgekey.net
 .marketingautomation.impexium.net
 .marketingcloudfx.com
@@ -71377,6 +71409,7 @@
 .mlvgxzenoiz.com
 .mlweb.dmlab.hu
 .mlwstbdnwdfyng.com
+.mlzxfwvonky.com
 .mm-api.agency
 .mm-cgnews.com
 .mm-syringe.com
@@ -72759,6 +72792,7 @@
 .mukqeq.cn
 .mulanphone.cn
 .mulato.info
+.mulberryay.com
 .mulciafdgu.xyz
 .mule.caddyserver.com
 .mule.pricelessai.com
@@ -78668,6 +78702,7 @@
 .overzubatan.com
 .ovexui.xyz
 .ovfratlkxerv.xyz
+.ovfvkfc.xyz
 .ovgzbnjj.com
 .ovhodsalpm.com
 .ovibospeseta.com
@@ -80415,7 +80450,6 @@
 .pc-agency24.de
 .pc-gizmos-ssl.com
 .pc-my-protection.xyz
-.pc-on-internet.com
 .pc-tc.s3-eu-west-1.amazonaws.com
 .pc-virus-d0l92j2.pw
 .pc.personalcreations.com
@@ -85997,6 +86031,7 @@
 .qqiat.com
 .qqied.xyz
 .qqjar.ru
+.qqkcmafkxossru.com
 .qqkzjpupluv.com
 .qqlnvwjtjhve.com
 .qqlogo.qq.com
@@ -86945,6 +86980,7 @@
 .rbclick.redboostofficialsite.store
 .rbclk.redboostonlineshop.live
 .rbdtwi.watski.se
+.rbfive.bid
 .rbfour.bid
 .rbgfxxt.cn
 .rbign.cn
@@ -89011,6 +89047,7 @@
 .rkdcil.monamenagementmaison.fr
 .rkdms.com
 .rkds10.icu
+.rkds5.icu
 .rkfodhkxmf.com
 .rkft2sdl8b.ru
 .rkgwzfwjgk.com
@@ -89906,6 +89943,7 @@
 .rtcegcp.cn
 .rtclx.com
 .rtdqhjiqf.com
+.rtds.progressive.com
 .rtdxqq.com
 .rteneme.ru
 .rtfmakw.com
@@ -100256,6 +100294,7 @@
 .ssllink.net
 .sslmetrics.omnihotels.com
 .sslmetrics.vivint.com
+.sslph.com
 .sslsc.sanitas.com
 .sslstats.canadapost-postescanada.ca
 .sslstats.canadapost.ca
@@ -113103,6 +113142,7 @@
 .u927.sfgate.com
 .u939.colgate.com
 .u97jr.xyz
+.u9axpzf50.com
 .ua-consumerpanel.frge.io
 .ua.badongo.com
 .ua.hullockotxi.com
@@ -115364,6 +115404,7 @@
 .vdggsd013.com
 .vdggsd014.com
 .vdggsd015.com
+.vdggsd016.com
 .vdhufs.com
 .vdkjfd.hottopic.com
 .vdlha.cn
@@ -116934,6 +116975,7 @@
 .vwtjvd.xyz
 .vwuyuahqf.com
 .vwvjzd.xyz
+.vwwptjtqokjd.com
 .vwws6.net
 .vx.azuresjukes.com
 .vx2e.top
@@ -122687,6 +122729,7 @@
 .y05zw.cn
 .y0o1g.cn
 .y1.arte.tv
+.y1.junshitt.com
 .y1.spreton.com
 .y12f.com
 .y1990.pw
@@ -124165,6 +124208,7 @@
 .z1.zhishidu.com
 .z11011.com
 .z1hihu.xmcimg.com
+.z1wfe.top
 .z2.cnywst.com
 .z2.xysmai.com
 .z2.zhishidu.com
@@ -124941,6 +124985,7 @@
 .zjrtuhds.top
 .zjrua.site
 .zjsdsports.cn
+.zjsru-iweb.net
 .zjsyawqj.cn
 .zjthzf.xyz
 .zjttaqx.cn
