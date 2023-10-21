@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-14 02:12:38
+# UPDATED: 2023-10-22 02:11:31
 # DOMAIN: 147
 # DOMAIN-KEYWORD: 37
-# DOMAIN-SUFFIX: 19229
+# DOMAIN-SUFFIX: 19231
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19530
+# TOTAL: 19532
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -188,6 +188,7 @@ payload:
   - DOMAIN-SUFFIX,12diasderegalosdeitunes.com.co
   - DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
   - DOMAIN-SUFFIX,132288.cc
+  - DOMAIN-SUFFIX,141-hk.com
   - DOMAIN-SUFFIX,141jav.com
   - DOMAIN-SUFFIX,159i.com
   - DOMAIN-SUFFIX,161sex.com
@@ -10802,6 +10803,7 @@ payload:
   - DOMAIN-SUFFIX,sex021.net
   - DOMAIN-SUFFIX,sex3.mobi
   - DOMAIN-SUFFIX,sex4arabxxx.com
+  - DOMAIN-SUFFIX,sex588.net
   - DOMAIN-SUFFIX,sexalarab.com
   - DOMAIN-SUFFIX,sexandsplash.com
   - DOMAIN-SUFFIX,sexanimalvideos.com

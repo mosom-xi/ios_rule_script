@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-21 02:11:57
+# UPDATED: 2023-10-22 02:12:10
 # DOMAIN: 166
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 64831
+# DOMAIN-SUFFIX: 64824
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 65021
+# TOTAL: 65014
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -6084,7 +6084,6 @@ xn--flw351e.com
 +.3033c.com
 +.3044.com
 +.306t.com
-+.308308.com
 +.30c.org
 +.30cgy.com
 +.30cn.net
@@ -9471,7 +9470,6 @@ xn--flw351e.com
 +.8855.org
 +.885741.com
 +.88582.com
-+.8858a.com
 +.8860.net
 +.8864.com
 +.8864.org
@@ -10417,6 +10415,7 @@ xn--flw351e.com
 +.a-sy.com
 +.a0598.com
 +.a0bi.com
++.a0f5etf2.icu
 +.a135.net
 +.a166.com
 +.a1736.com
@@ -10561,7 +10560,6 @@ xn--flw351e.com
 +.acewill.net
 +.acftu.org
 +.acfunchina.com
-+.acg-moe.com
 +.acg.gd
 +.acg17.com
 +.acg183.com
@@ -11117,6 +11115,7 @@ xn--flw351e.com
 +.ainiseo.com
 +.ainiu.net
 +.ainyi.com
++.aiotoolbox.com
 +.aipark.com
 +.aipear.com
 +.aipenglai.com
@@ -12800,6 +12799,7 @@ xn--flw351e.com
 +.baiseyun.com
 +.baishakm.com
 +.baishan-cloud.com
++.baishan-cloud.net
 +.baishan.com
 +.baishancloud.com
 +.baishancloud.org
@@ -14765,6 +14765,7 @@ xn--flw351e.com
 +.btcside.com
 +.btcsos.com
 +.btcwatch.com
++.btcxue.com
 +.btdad.live
 +.btdad17.xyz
 +.btdog.com
@@ -18078,6 +18079,7 @@ xn--flw351e.com
 +.cnbkw.com
 +.cnbluebox.com
 +.cnboat.com
++.cnbooking.net
 +.cnbooks.org
 +.cnbp.net
 +.cnbuses.com
@@ -19104,6 +19106,7 @@ xn--flw351e.com
 +.crc.hk
 +.crc81.com
 +.crcapital.info
++.crcgas.com
 +.crcrfsp.com
 +.crcsz.com
 +.crct.com
@@ -20729,7 +20732,6 @@ xn--flw351e.com
 +.diangongbao.com
 +.diangongwu.com
 +.dianhen.com
-+.dianhi.com
 +.dianhong.com
 +.dianhou.com
 +.dianji007.com
@@ -24221,6 +24223,7 @@ xn--flw351e.com
 +.ficochina.net
 +.fiehff.com
 +.fieldschina.com
++.fifedu.com
 +.fifo.cc
 +.fifsky.com
 +.fiinote.com
@@ -26441,6 +26444,7 @@ xn--flw351e.com
 +.gryu.net
 +.grzmz.com
 +.gs14.com
++.gs1cn.org
 +.gs307.com
 +.gs3jro.xyz
 +.gs99gs.com
@@ -28285,7 +28289,6 @@ xn--flw351e.com
 +.heisener.com
 +.heishao.net
 +.heishenhua.com
-+.heisiwang.com
 +.heitao.com
 +.heitao2014.com
 +.heixi.com
@@ -28808,6 +28811,7 @@ xn--flw351e.com
 +.hjyl.org
 +.hjz518.com
 +.hk-island.hk
++.hk-titan.com
 +.hk-vstart.com
 +.hk.uy
 +.hk515.net
@@ -29571,7 +29575,6 @@ xn--flw351e.com
 +.htgjjl.com
 +.htguosheng.com
 +.htgwf.com
-+.hthdo.com
 +.htidc.com
 +.htinfor.com
 +.htinns.com
@@ -31505,6 +31508,7 @@ xn--flw351e.com
 +.images-cache.com
 +.images-huoshan.com
 +.images.samsung.com
++.imagestoryai.com
 +.imageter.com
 +.imagetotxt.com
 +.imaginde.com
@@ -36069,9 +36073,6 @@ xn--flw351e.com
 +.kvegg.com
 +.kvenjoy.com
 +.kvevv.com
-+.kveww.com
-+.kvexx.com
-+.kvhmm.com
 +.kviso.com
 +.kvkaa.com
 +.kvogues.com
@@ -38449,7 +38450,6 @@ xn--flw351e.com
 +.lvwenhan.com
 +.lvwmb.com
 +.lvxing.net
-+.lvya.com
 +.lvye.com
 +.lvye.org
 +.lvyestudy.com
@@ -39591,7 +39591,6 @@ xn--flw351e.com
 +.mfqyw.com
 +.mftianshanam.com
 +.mftvideo.com
-+.mfys12321.com
 +.mfzdb.com
 +.mfzxcs.com
 +.mg-cdn.com
@@ -40804,7 +40803,6 @@ xn--flw351e.com
 +.mxzx123.net
 +.mxzzzs.com
 +.my-3dcad.com
-+.my-best-products.com
 +.my-imcloud.com
 +.my-summit.com
 +.my.st.com
@@ -41020,7 +41018,6 @@ xn--flw351e.com
 +.mysteelcms.com
 +.mysubmail.com
 +.mysupa.com
-+.mysuperbest.com
 +.mysuperdns.com
 +.mysvw.com
 +.myt126.com
@@ -42391,7 +42388,6 @@ xn--flw351e.com
 +.okex.vip
 +.okex.win
 +.okeycar.com
-+.okfri.com
 +.okhimalayanzi.com
 +.okhqb.com
 +.okidc.com
@@ -44279,7 +44275,6 @@ xn--flw351e.com
 +.pychina.org
 +.pyddd.com
 +.pyer.site
-+.pygdzhcs.com
 +.pyhead.com
 +.pyjia.com
 +.pyjsh.com
@@ -45717,7 +45712,6 @@ xn--flw351e.com
 +.qxwz.com
 +.qxxsjk.com
 +.qxyaoc.com
-+.qxzc.net
 +.qxzxp.com
 +.qy-office.com
 +.qy-qq.com
@@ -45947,7 +45941,6 @@ xn--flw351e.com
 +.rdamicro.com
 +.rdbom.com
 +.rdbuy.com
-+.rdcy.org
 +.rddoc.com
 +.rdgz.org
 +.rdhyw.com
@@ -47370,6 +47363,7 @@ xn--flw351e.com
 +.secretmine.net
 +.secrss.com
 +.secrui.com
++.secshow.net
 +.secsilo.com
 +.sectigochina.com
 +.secu100.net
@@ -49028,6 +49022,7 @@ xn--flw351e.com
 +.sjgle.com
 +.sjgnskf.com
 +.sjhcip.com
++.sjhfkhgut009.com
 +.sjhfrj.com
 +.sjhgo.com
 +.sjhl.cc
@@ -49770,6 +49765,7 @@ xn--flw351e.com
 +.sposter.net
 +.spot.download
 +.spoto.net
++.spotpear.com
 +.spouyashop.com
 +.spplnet.com
 +.spprec.com
@@ -49943,7 +49939,6 @@ xn--flw351e.com
 +.starduster.me
 +.starfivetech.com
 +.stargame.com
-+.starlight-generator.com
 +.starlott.com
 +.starming.com
 +.starooo.com
@@ -54072,6 +54067,7 @@ xn--flw351e.com
 +.vcbeat.net
 +.vcchar.com
 +.vcd.io
++.vcdisgd.com
 +.vceshi.net
 +.vcg.com
 +.vchangyi.com
@@ -54199,6 +54195,7 @@ xn--flw351e.com
 +.vial.cc
 +.vibaike.com
 +.vibit.cc
++.vibrou.com
 +.vicchen.me
 +.vichamp.com
 +.vicigaming.com
@@ -60876,7 +60873,6 @@ xn--flw351e.com
 +.yluu.com
 +.ylwl.cc
 +.ylws.net
-+.ylwt33.com
 +.ylwyw.com
 +.ylxdtww.com
 +.ylxw.net
@@ -61302,7 +61298,6 @@ xn--flw351e.com
 +.youtube-dubbing.com
 +.youtuzi.com
 +.youtx.com
-+.youwanc.com
 +.youwawa.com
 +.youwei.com
 +.youwinedu.com
@@ -62437,7 +62432,6 @@ xn--flw351e.com
 +.zahuishi.com
 +.zahuoji.com
 +.zai-art.com
-+.zaibei.net
 +.zaiduu.com
 +.zaih.com
 +.zaihuangshi.com
@@ -64666,7 +64660,6 @@ xn--flw351e.com
 +.zuohuodong.com
 +.zuoji-scm.com
 +.zuojiachubanshe.com
-+.zuojiaju.com
 +.zuojiawang.com
 +.zuojing.com
 +.zuojj.com

@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-21 02:09:01
+# UPDATED: 2023-10-22 02:08:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 12432
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 126201
+# DOMAIN-SUFFIX: 126233
 # IP-CIDR: 354
 # URL-REGEX: 285
-# TOTAL: 139536
+# TOTAL: 139568
 .0-000.store
 .0.101tubeporn.com
 .0.code.cotsta.ru
@@ -2186,6 +2186,7 @@
 .44afd3eae5.com
 .44j4oo2a.cn
 .44jq.cn
+.44jui.top
 .44pv.com
 .44q.com
 .44tele-infra.com
@@ -4198,6 +4199,7 @@
 .a.rohde-schwarz.com
 .a.rohde-schwarz.com.cn
 .a.ruporn.me
+.a.sakh.com
 .a.sami.se
 .a.santabrowser.com
 .a.sbnw.in
@@ -6896,6 +6898,7 @@
 .ad-1258444056.cos.accelerate.myqcloud.com
 .ad-411.com
 .ad-a8.www.zeiri4.com
+.ad-adapex.io
 .ad-admin.vnay.vn
 .ad-analysis.pconline.com.cn
 .ad-android.51wnl.com
@@ -9570,7 +9573,6 @@
 .ads.mytelus.com
 .ads.nationalreview.com
 .ads.nccwebs.com
-.ads.ndtv1.com
 .ads.nerve.com
 .ads.netbul.com
 .ads.networksolutions.com
@@ -15492,6 +15494,7 @@
 .asfklgnbvx.com
 .asfofpfmu.com
 .asforsalesr.one
+.asfybkiy.xyz
 .asg.allweb.click
 .asg.animehdl.net
 .asg.aphex.me
@@ -17507,6 +17510,7 @@
 .baileyflossallpurpose.com
 .bailifftent.com
 .bailifftoddle.com
+.bailoaso.xyz
 .bailonushe.com
 .bailpeas.com
 .baimbw.cn
@@ -22121,6 +22125,7 @@
 .bzthxv.xyz
 .bzuaqh.roan.nl
 .bzuyxqrmndod.com
+.bzvhgbr.xyz
 .bzxvtj.xyz
 .bzyunding.com
 .bzzmlqkljkrw.top
@@ -23883,6 +23888,7 @@
 .cdp.cifinancial.com
 .cdp.cloud.unity3d.com
 .cdp.vemt.com
+.cdp.yna.co.kr
 .cdqjmc.com
 .cdrive.compellent.com
 .cdrvrs.com
@@ -28500,6 +28506,7 @@
 .cowscrayon.com
 .coxaesmooth.digital
 .coxalscyth.com
+.coxiesthubble.com
 .coxmt.com
 .coxosots.xyz
 .coxziptwo.com
@@ -42777,6 +42784,7 @@
 .faw7.top
 .fawningforegut.life
 .fawu.asia
+.faxffjo.com
 .faxifa.xyz
 .faxqaaawyb.com
 .fayijxrs.com
@@ -44253,6 +44261,7 @@
 .foiegras-groliere.fr
 .foigtiqvikc.xyz
 .foirkrt.icu
+.foizico.cn
 .fojdwszsjckwl.com
 .fokbrd.impo.ch
 .fokvgxuomu.com
@@ -44718,6 +44727,7 @@
 .fprnt.com
 .fpt.inxinternational.com
 .fpt.microsoft.com
+.fptdxkm.com
 .fptls.com
 .fptls2.com
 .fptls3.com
@@ -45305,6 +45315,7 @@
 .fumblingform.com
 .fumblingselection.com
 .fumeiti.cc
+.fumersoctoon.com
 .fumiad.dxys.pro
 .fummkxa.com
 .fun-e-cards.com
@@ -45531,6 +45542,7 @@
 .fyiyducvgp.com
 .fyjyhm.com
 .fykdxpdnhy.com
+.fykjhzjyjvx.com
 .fymlwv.com
 .fypcy.cyou
 .fyreball.com
@@ -46527,6 +46539,7 @@
 .gepush.com
 .ger97coined.cfd
 .geraflows.com
+.geratedbawled.com
 .gerbil.buf.build
 .gerbil.clapsaddleart.com
 .gerbil.downtown-mafia.com
@@ -50183,6 +50196,7 @@
 .hattepush.com
 .hatter-story.info
 .hatwasallo.com
+.hauboisphenols.com
 .hauchi.com.tw
 .hauchiwu.com
 .hauganes.net
@@ -50342,6 +50356,7 @@
 .hchig.com
 .hchik.com
 .hchlqx.ghbass.com
+.hchuviq.cn
 .hciea.xyz
 .hcjarn.parfumsclub.de
 .hcjpbc.intouchweekly.com
@@ -60045,6 +60060,7 @@
 .kleinfelder.fr
 .klenhosnc.com
 .klert.com
+.klfbnklddfbkn.com
 .klfxq.kieedi.foosheng.com
 .klgzzs.cn
 .klick.gaylibe.de
@@ -65008,6 +65024,7 @@
 .luping.net.cn
 .lupoot.com
 .luptbq.lampsplus.com
+.lupvaqvfeka.com
 .lupyjpkuykoc.com
 .luracancamus.com
 .luralgaqp.com
@@ -68610,6 +68627,7 @@
 .mcs.delvenetworks.com
 .mcs.snssdk.com
 .mcs.us.tiktokv.com
+.mcs.zijieapi.com
 .mcsgrp.com
 .mct01.com
 .mctailqwjke.com
@@ -74655,6 +74673,7 @@
 .netliker.com
 .netload2.com
 .netloader.cc
+.netlog.ru
 .netmailcsr11.net.anwalt.de
 .netmera-web.com
 .netmera.com
@@ -85709,7 +85728,6 @@
 .px.ucweb.com
 .px.wayfair.com
 .px.wp.pl
-.px.za.zalo.me
 .px.za.zaloapp.com
 .px3792.com
 .px69z.cn
@@ -86385,6 +86403,7 @@
 .qo4nkz03dy.cn
 .qoaaa.com
 .qobarmbghaiv.xyz
+.qodyldusxloinpn.com
 .qoepkc.top
 .qofowyki.xyz
 .qofvpbo.cn
@@ -88586,6 +88605,7 @@
 .report-zt.allmusic.com
 .report.23video.com
 .report.apkpure.net
+.report.botm.transparentedge.io
 .report.cms.qq.com
 .report.iciba.com
 .report.iheartmedia.gbqofs.io
@@ -89616,6 +89636,7 @@
 .rnybul.gismeteo.lv
 .rnzqde.xyz
 .ro-go.experian.com
+.ro.aiwan4399.com
 .ro2.ro.trackrocasino.com
 .ro55cpi1.xhamster.com
 .roabmyrevngqqk.com
@@ -90132,6 +90153,7 @@
 .rt.bookmakersreview.com
 .rt.booxai.com
 .rt.bunte.de
+.rt.cdnmedia.tv
 .rt.compare24.net
 .rt.derikdavid.com.br
 .rt.designlifestyleeveryday.com
@@ -90413,6 +90435,7 @@
 .rtmonitor.kugou.com
 .rtmtgf.xyz
 .rtn.thestar.com
+.rtncskottpfwb.com
 .rtnews.pro
 .rtnigaz.cyou
 .rtnuld.xyz
@@ -91370,6 +91393,7 @@
 .saccess.hikaritv.net
 .sacfasv.com
 .saclel.zotapay.com
+.sacquebenzine.com
 .sacralcabaa.com
 .sacrawasat.store
 .sacre.cn
@@ -107925,6 +107949,7 @@
 .tignuget.net
 .tigraiosar.space
 .tigrisbewray.life
+.tihursoa.net
 .tiijdxto.com
 .tijorari.com
 .tikbblove.com
@@ -108158,6 +108183,7 @@
 .tj.banzhu111.xyz
 .tj.g.pptv.com
 .tj.ijinshan.com
+.tj.img4399.com
 .tj.jinyuewang.cn
 .tj.keymob.com
 .tj.koudaitong.com
@@ -108878,7 +108904,6 @@
 .toppornvids.com
 .topprofitablecpm.com
 .topprofitablegate.com
-.toprebates.com
 .toprevenuecpmnetwork.com
 .toprevenuenetwork.com
 .toprxshopplace.com
@@ -108942,6 +108967,7 @@
 .torrentsafeguard.com
 .torrentvicious.com
 .torropinto.viessmann.es
+.torselinly.com
 .torshartontding.ru
 .tortoise.transistor.fm
 .toru0vane.com
@@ -111733,6 +111759,7 @@
 .tracksystem.online
 .tracktds.com
 .tracktraf.com
+.trackuhub.com
 .trackuity.com
 .trackvbmobs.click
 .trackvol.com
@@ -115271,6 +115298,7 @@
 .usurertramped.guru
 .usurv.com
 .uswardwot.com
+.usxuyr.icu
 .usyyzz.winparts.nl
 .uszaodwya.com
 .ut.5.p2l.info
@@ -118763,6 +118791,7 @@
 .webstat.kuwo.cn
 .webstat.net
 .webstat.no
+.webstat.qiumibao.com
 .webstat.se
 .webstat.vodafone.com
 .webstat.ws.126.net
@@ -124840,6 +124869,7 @@
 .za-go.experian.com
 .za.baomoi.com
 .za.qeeq.com
+.za.zalo.me
 .za.zapps.vn
 .za.zdn.vn
 .za.zingmp3.vn
@@ -126208,7 +126238,9 @@
 .zzxmcp.com
 .zzyanhushi.com
 .zzyonghao.com
+.zzyy17.top
 .zzyy19.top
+.zzyy20.top
 .zzzhuoxiaqu.online
 .zzznews.ru
 00-gov.cn
