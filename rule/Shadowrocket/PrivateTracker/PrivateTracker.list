@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-22 02:13:01
-# DOMAIN: 148
+# UPDATED: 2023-10-23 02:12:17
+# DOMAIN: 150
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 119
 # IP-CIDR: 10
-# TOTAL: 280
+# TOTAL: 282
 DOMAIN,107.182.30.76.16clouds.com
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -30,12 +30,15 @@ DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,epider.me
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
+DOMAIN,explodie.org
 DOMAIN,fe.dealclub.de
 DOMAIN,fh2.cmp-gaming.com
 DOMAIN,free.publictracker.xyz
+DOMAIN,freedomalternative.com
 DOMAIN,hub.bugout.link
 DOMAIN,incine.ru
 DOMAIN,ipv6.fuuuuuck.com
+DOMAIN,isk.richardsw.club
 DOMAIN,mail.artixlinux.org
 DOMAIN,moonburrow.club
 DOMAIN,movies.zsw.ca
@@ -48,6 +51,7 @@ DOMAIN,open.acgnxtracker.com
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
@@ -62,7 +66,6 @@ DOMAIN,private.anonseed.com
 DOMAIN,public-tracker.cf
 DOMAIN,public.publictracker.xyz
 DOMAIN,public.tracker.vraphim.com
-DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run-2.publictracker.xyz
@@ -85,6 +88,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
+DOMAIN,tracker.4.babico.name.tr
 DOMAIN,tracker.artixlinux.org
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
@@ -95,13 +99,11 @@ DOMAIN,tracker.cubonegro.lol
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
-DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.electro-torrent.pl
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.files.fm
 DOMAIN,tracker.fnix.net
-DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gbitt.info
 DOMAIN,tracker.imgoingto.icu
 DOMAIN,tracker.ipfsscan.io
@@ -111,6 +113,7 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.cf
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.loligirl.cn
+DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.netmap.top
@@ -151,7 +154,6 @@ DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.wareztorrent.com
-DOMAIN,x.paranoid.agency
 DOMAIN,x.t-1.org
 DOMAIN,y.paranoid.agency
 DOMAIN,yahor.of.by
