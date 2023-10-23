@@ -6,6 +6,7 @@
 # HOST-SUFFIX: 12
 # TOTAL: 13
 HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
 HOST-SUFFIX,challenges.cloudflare.com,OpenAI
 HOST-SUFFIX,client-api.arkoselabs.com,OpenAI
